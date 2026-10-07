@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Logo 600 Câu Lý Thuyết Ô Tô</title>
+  <desc id="desc">Biểu tượng con đường và trang sách cách điệu</desc>
+  <defs>
+    <linearGradient id="bg" x1="48" y1="40" x2="464" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C6FF2"/>
+      <stop offset="0.52" stop-color="#397FE8"/>
+      <stop offset="1" stop-color="#22D3C5"/>
+    </linearGradient>
+    <linearGradient id="road" x1="256" y1="142" x2="256" y2="418" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#09152B" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <rect x="28" y="28" width="456" height="456" rx="132" fill="url(#bg)" filter="url(#shadow)"/>
+  <path d="M128 174c0-18 17-31 34-25l94 33 94-33c17-6 34 7 34 25v178c0 14-13 25-27 21l-101-29-101 29c-14 4-27-7-27-21V174Z" fill="#071A31" fill-opacity="0.2" stroke="#fff" stroke-width="20" stroke-linejoin="round"/>
+  <path d="M256 184v160" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+  <path d="M220 321c18-39 26-82 27-128M292 321c-18-39-26-82-27-128" stroke="url(#road)" stroke-width="18" stroke-linecap="round"/>
+  <path d="M256 224v33M256 286v27" stroke="#22D3C5" stroke-width="13" stroke-linecap="round"/>
+</svg>

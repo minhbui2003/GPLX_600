@@ -1,0 +1,18 @@
+{
+  "name": "600 Câu Lý Thuyết Ô Tô",
+  "short_name": "600 Câu Ô Tô",
+  "description": "Ôn trọn bộ 600 câu lý thuyết ô tô, luyện câu điểm liệt và thi thử 30 câu.",
+  "lang": "vi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#101c2f",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+node_modules
+dist
+.git
+.vscode
+raw_*.html
+raw_*.txt
+on_tap_pl.html
+questions_600_raw.json
+scraped_questions_pl.json
+PLAN.md
+*.log
